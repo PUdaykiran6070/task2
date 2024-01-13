@@ -1,0 +1,84 @@
+[8:55 p. m., 10/1/2024] Pullammagari Udaykiran: <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Netflix-like Homepage</title>
+</head>
+<body>
+    <header>
+        <!-- Your navigation bar or logo goes here -->
+    </header>
+
+    <section class="main-content">
+        <h1>Welcome to Netflix</h1>
+        <p>Unlimited movies, TV shows, and more. Watch anywhere. Cancel anytime.</p>
+        <button class="cta-button">Sign Up</button>
+    </section>
+
+    <section class="featured-content">
+        <!-- Featured movies or TV shows section -->
+        <!-- Example: -->
+        <div class="featured-item">
+            <img src="https://tse2.mm.bing.net/th?id=OIP.Xa2Sja…
+[8:59 p. m., 10/1/2024] Pullammagari Udaykiran: body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #111;
+    color: #fff;
+}
+
+header {
+    /* Your header styles go here */
+}
+
+.main-content {
+    text-align: center;
+    padding: 100px;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.5em;
+    margin-bottom: 30px;
+}
+
+.cta-button {
+    background-color: #e50914;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    border: none;
+    cursor: pointer;
+}
+
+.featured-content {
+    /* Styles for the featured movies or TV shows section */
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+
+.featured-item {
+    text-align: center;
+}
+
+.featured-item img {
+    width: 100%;
+    height: auto;
+    border-radius:…
+[10:24 a. m., 12/1/2024] Pullammagari Udaykiran: Mail: udaykiran6070@gmail.com
+Password:uday6070
+[11:28 a. m., 12/1/2024] Rama Cse: GitHub email and password
+[3:44 p. m., 12/1/2024] Rama Cse: proud to announce the successful completion of my internship with codsoft. It's been an incredible journey of learning and growth
+
+#codsoft #codsoftinternship @codsoft
+
+github link:https://lnkd.in/grfNa2xE
+[3:55 p. m., 12/1/2024] Pullammagari Udaykiran: https://www.linkedin.com/posts/udaykiran-undefined-857617294_proud-to-announce-the-successful-completion-activity-7151518604453138432-bB7z?utm_source=share&utm_medium=member_android
